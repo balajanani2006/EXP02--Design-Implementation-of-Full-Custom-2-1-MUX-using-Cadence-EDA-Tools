@@ -7,7 +7,8 @@ Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
 
-![image](https://github.com/user-attachments/assets/b962f9ff-dd23-4d6c-bc20-2fe3101ae240)
+![image](https://github.com/user-attachments/assets/21c295f5-da02-4d8b-9b02-ddad9fe695a8)
+
 
 
 S C H E M A T I C S I M U L A T I O N
